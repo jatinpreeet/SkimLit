@@ -23,17 +23,18 @@
    <img width="365" alt="Screenshot 2024-07-13 at 12 25 34 PM" src="https://github.com/user-attachments/assets/b3271a01-8e3b-464f-9678-68c7d52eba2e">
 
 4. Conv1D with character embedding ->
+
    <img width="681" alt="Screenshot 2024-07-13 at 12 30 45 PM" src="https://github.com/user-attachments/assets/677bc6db-05e0-4f5b-a4e4-f9fa1d896b95">
    <img width="794" alt="Screenshot 2024-07-13 at 12 29 59 PM" src="https://github.com/user-attachments/assets/920ccf54-de05-41c2-90dd-d27d4e8667cd">
 
-5. Model with hybrid embeddings ( char level embedding + token embedding) -> 74%
+6. Model with hybrid embeddings ( char level embedding + token embedding) -> 74%
    <img width="1063" alt="Screenshot 2024-07-13 at 12 33 26 PM" src="https://github.com/user-attachments/assets/0f382073-e97d-467f-b7d9-e1b6027a3434">
    ![Unknown](https://github.com/user-attachments/assets/d3cc479a-7355-4077-8d2c-4516b450291e)
 
-6. Model with hybrid embeddings ( char level embedding + custom token embedding) - > 75%
+7. Model with hybrid embeddings ( char level embedding + custom token embedding) - > 75%
    <img width="1063" alt="Screenshot 2024-07-13 at 12 36 40 PM" src="https://github.com/user-attachments/assets/dab5c5b7-45d7-40be-a715-5f4d2b57f9bf">
 
-7. Model with tribrid embeddings ( char level + token level + positional) -> 85%
+8. Model with tribrid embeddings ( char level + token level + positional) -> 85%
    <img width="727" alt="Screenshot 2024-07-13 at 12 37 59 PM" src="https://github.com/user-attachments/assets/e5d4ba2c-366e-4b45-a6c2-a48876f82b4c">
 
 
