@@ -1,10 +1,10 @@
 # SkimLit
-## SKIMLIT : The purpose of this project is to make a NLP model to make medical abstracts easier to read.
-# Replicating a deep learning model behind the 2017 revolutionary paper : PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts.https://arxiv.org/abs/1710.06071
+# SKIMLIT : The purpose of this project is to make a NLP model to make medical abstracts easier to read.
+## Replicating a deep learning model behind the 2017 revolutionary paper : PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts.https://arxiv.org/abs/1710.06071
 ## Model in this paper has an accuracy of 88% 
 
 
-# Data : https://github.com/Franck-Dernoncourt/pubmed-rct
+### Data : https://github.com/Franck-Dernoncourt/pubmed-rct
 
 
 # Model experimented with it: 
